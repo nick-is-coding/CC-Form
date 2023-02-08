@@ -1,0 +1,11 @@
+input[type="submit"] {
+    background: #E43C2A;
+    border: 1px solid #E43C2A;
+    color: white;
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+.btn-wrapper {
+    text-align: center;
+}

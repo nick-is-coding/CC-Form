@@ -1,0 +1,20 @@
+label {
+    height: 70px;
+    display: block;
+    position: relative;
+}
+
+.input-root {
+    border: 1px solid rgb(162, 159, 159);
+    border-radius: 5px;
+    padding: 10px;
+    line-height: 1.2;
+    width: 480px;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    position: absolute;
+    top: 45px;
+}
